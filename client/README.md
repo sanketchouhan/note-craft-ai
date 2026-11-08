@@ -1,6 +1,6 @@
-# NotebookLM Client
+# NoteCraftAI Client
 
-Frontend web application for NotebookLM, built with Next.js 16 (App Router), React 19, Tailwind CSS v4, shadcn UI, and Better Auth.
+Frontend web application for NoteCraftAI, built with Next.js 16 (App Router), React 19, Tailwind CSS v4, shadcn UI, and Better Auth.
 
 ## Features
 
@@ -31,7 +31,7 @@ Frontend web application for NotebookLM, built with Next.js 16 (App Router), Rea
 ### 1. Prerequisites
 
 - Node.js 20+ and npm
-- Running NotebookLM backend server (defaults to `http://localhost:8080`)
+- Running NoteCraftAI backend server (defaults to `http://localhost:8080`)
 
 ### 2. Configure Environment Variables
 

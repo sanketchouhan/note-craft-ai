@@ -96,7 +96,7 @@ export const serverConfig: serverConfig = {
   env: process.env.NODE_ENV || "development",
   databaseUrl:
     process.env.DATABASE_URL ||
-    "postgresql://postgres:postgres@localhost:5433/notebook_lm",
+    "postgresql://postgres:postgres@localhost:5433/notecraftai",
   betterAuthUrl: process.env.BETTER_AUTH_URL || "http://localhost:3000",
   betterAuthSecret: process.env.BETTER_AUTH_SECRET || "secret",
   googleClientId: process.env.GOOGLE_CLIENT_ID || "google_client_id",

@@ -1,6 +1,6 @@
-# NotebookLM Server
+# NoteCraftAI Server
 
-Backend REST API and background worker service for NotebookLM, built with Node.js, Express, Prisma ORM, Inngest, and the Vercel AI SDK.
+Backend REST API and background worker service for NoteCraftAI, built with Node.js, Express, Prisma ORM, Inngest, and the Vercel AI SDK.
 
 ## Features
 
@@ -36,7 +36,7 @@ From the repository root:
 docker compose up -d
 ```
 
-The database runs on `localhost:5433` (mapped from container port `5432`) with database `notebook_lm`.
+The database runs on `localhost:5433` (mapped from container port `5432`) with database `notecraftai`.
 
 ### 3. Configure Environment Variables
 

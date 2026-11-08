@@ -1,6 +1,6 @@
-# Notebook LM
+# NoteCraftAI
 
-Notebook LM is a personal research notebook. You collect sources in a workspace, ask questions about them, and turn them into study material.
+NoteCraftAI is a personal research notebook. You collect sources in a workspace, ask questions about them, and turn them into study material.
 
 Each workspace keeps its own sources, chat, and generated artifacts. Answers cite the passages they came from.
 
